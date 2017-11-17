@@ -8,5 +8,5 @@ public interface IUserView {
 
     void setUserName(String userName);
     void setPassword(String password);
-    void error(String errormsg);
+    void error(String errormsg) ;
 }
